@@ -1,11 +1,12 @@
 {
     "require": {
-    },
-    "require-dev": {
         "hhvm/hsl": "^4.15",
+        "hhvm/hhast": "4.15.5",
         "hhvm/hhvm-autoload": "^2.0",
-        "hhvm/hhast": "^4.15",
-        "hhvm/hacktest": "^1.6",
-        "facebook/fbexpect": "^2.6"
+        "hhvm/type-assert": "^3.6",
+        "facebook/hh-clilib": "^2.2",
+        "facebook/hack-codegen": "^4.3",
+        "facebook/fbexpect": "^2.6",
+        "facebook/definition-finder": "^2.12"
     }
 }
