@@ -5,7 +5,6 @@
  */
 require_once(__DIR__.'/../vendor/autoload.hack');
 
-
 <<__EntryPoint>>
 function cli_noargs_simple_main(): noreturn {
   \Facebook\AutoloadMap\initialize();
