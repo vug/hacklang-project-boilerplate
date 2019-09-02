@@ -1,5 +1,5 @@
 class MyLib {
-    public static function myPrint(string $x): void {
+    public static function myPrint(mixed $x): void {
         print_r($x);
     }
 
